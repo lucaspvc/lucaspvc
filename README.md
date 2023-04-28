@@ -15,5 +15,3 @@
   <a href = "https://www.twitch.tv/lucaspvc"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
   ##
- 
-![snake gif](https://github.com/lucaspvc/lucaspvc/blob/output/github-contribution-grid-snake.svg)
