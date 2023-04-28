@@ -16,4 +16,3 @@
   
   ##
  
-![snake gif](https://github.com/lucaspvc/lucaspvc/blob/output/github-contribution-grid-snake.svg)
