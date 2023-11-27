@@ -5,8 +5,8 @@
 </div>
 
 <div style="display: inline_block; border-bottom: 40em"><br>
-  <img align="center"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />      
+  <!--<img align="center"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> -->
  </div> 
  
  ##
